@@ -18,8 +18,13 @@ button{
 }
 a{
     font-size: 20px;
+    text-decoration: none;
 }
 #logo{
     font-size: 30px;
     color: #f08804;
+}
+
+body{
+    background-color: darkcyan;
 }
